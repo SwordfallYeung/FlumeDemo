@@ -2,7 +2,7 @@
 
 1. 配置flume-conf.properties。配置详情查看flume-conf.properties文件。
 
-2. 启动flume agent命令。当一个Flume进程启动时需要说明启动哪个agent，包含--conf=<conf-dir> , 该例子选择Flume在控制台打印日志。<br/>
+2. 启动flume agent命令。当一个Flume进程启动时需要说明启动哪个agent，包含--conf conf-dir , 该例子选择Flume在控制台打印日志。<br/>
 <code>$bin/flume-ng agent --conf conf --conf-file conf/flume-conf.properties --name a1 -Dflume.root.logger=INFO,console</code>
 
 3. 发送event到Flume控制台。<br/>
