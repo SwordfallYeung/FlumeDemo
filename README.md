@@ -12,3 +12,5 @@ http://blog.csdn.net/xvshu/article/details/51736202
 Flume自定义source PollableSource与EventDrivenSource：
 
 http://blog.csdn.net/harderxin/article/details/74210437
+
+https://www.2cto.com/kf/201610/555349.html
