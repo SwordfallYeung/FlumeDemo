@@ -8,3 +8,7 @@ https://www.cnblogs.com/LaplaceDemon/archive/2010/08/26/1809458.html
 Flume高并发优化：
 
 http://blog.csdn.net/xvshu/article/details/51736202
+
+Flume自定义source PollableSource与EventDrivenSource：
+
+http://blog.csdn.net/harderxin/article/details/74210437
